@@ -1,4 +1,4 @@
-## Hi there 👋
+AI TEXT BASED - MICRO AD GENERATOR
 
 <!--
 **DEVRAJ-20/DEVRAJ-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
