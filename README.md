@@ -91,6 +91,15 @@ const devraj = {
 
 ## 🚀 Featured Projects
 
+| Project | Description |
+|---------|-------------|
+| 💬 [**Real-Time Chat**](https://github.com/DEVRAJ-20/Real-Time-Chat) | Full-stack real-time messaging app with MERN, Socket.io, JWT auth & online user status |
+| 🖱️ [**AI Virtual Mouse**](https://github.com/DEVRAJ-20/AI-Virtual-Mouse) | Control your mouse cursor using hand gestures — powered by Python, OpenCV & MediaPipe |
+| 📝 [**BlogApp**](https://github.com/DEVRAJ-20/BlogApp) | Modern blog application built with React + Vite for creating and sharing posts |
+| 🎉 [**Ootsav Frontend**](https://github.com/Ootsav-app/Ootsav-Frontend) | Event management platform frontend built with React + TypeScript |
+| 🏛️ [**Web3 Smart Tender**](https://github.com/DEVRAJ-20/Web3-Smart-Tender-System) | Blockchain-based transparent tendering platform using Ethereum smart contracts |
+| 🎨 [**Artistic QR**](https://github.com/DEVRAJ-20/artistic-qr) | Generate beautiful, artistic QR codes with custom styles using React |
+
 <div align="center">
 
 <a href="https://github.com/DEVRAJ-20/Real-Time-Chat">
@@ -105,6 +114,17 @@ const devraj = {
 <a href="https://github.com/Ootsav-app/Ootsav-Frontend">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ootsav-app&repo=Ootsav-Frontend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
 </a>
+
+</div>
+
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DEVRAJ-20&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
