@@ -103,16 +103,16 @@ const devraj = {
 <div align="center">
 
 <a href="https://github.com/DEVRAJ-20/Real-Time-Chat">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DEVRAJ-20&repo=Real-Time-Chat&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DEVRAJ-20&repo=Real-Time-Chat&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=0" />
 </a>
 <a href="https://github.com/DEVRAJ-20/AI-Virtual-Mouse">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DEVRAJ-20&repo=AI-Virtual-Mouse&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DEVRAJ-20&repo=AI-Virtual-Mouse&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=0" />
 </a>
 <a href="https://github.com/DEVRAJ-20/BlogApp">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DEVRAJ-20&repo=BlogApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DEVRAJ-20&repo=BlogApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=0" />
 </a>
 <a href="https://github.com/Ootsav-app/Ootsav-Frontend">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ootsav-app&repo=Ootsav-Frontend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ootsav-app&repo=Ootsav-Frontend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=0" />
 </a>
 
 </div>
