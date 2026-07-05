@@ -19,7 +19,7 @@ const devraj = {
     education: "B.Tech CSE",
     role: "Full Stack Developer & AI/ML Engineer",
     currentFocus: ["MERN Stack", "AI/ML", "RAG Systems", "GenAI"],
-    experience: ["Jaltara (Jio)", "GET-IT"],
+    experience: ["Jaltara (Jio)", "Bosch"],
     funFact: "I turn coffee into code ☕→💻"
 };
 ```
