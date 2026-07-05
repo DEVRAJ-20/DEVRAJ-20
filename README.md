@@ -93,12 +93,12 @@ const devraj = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DEVRAJ-20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DEVRAJ-20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DEVRAJ-20&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVRAJ-20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DEVRAJ-20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
 
 </div>
 
@@ -118,16 +118,16 @@ const devraj = {
 <div align="center">
 
 <a href="https://github.com/DEVRAJ-20/MatchMind">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DEVRAJ-20&repo=MatchMind&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=0" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DEVRAJ-20&repo=MatchMind&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=0" />
 </a>
 <a href="https://github.com/DEVRAJ-20/Web3-Smart-Tender-System">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DEVRAJ-20&repo=Web3-Smart-Tender-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=0" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DEVRAJ-20&repo=Web3-Smart-Tender-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=0" />
 </a>
 <a href="https://github.com/DEVRAJ-20/Real-Time-Chat">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DEVRAJ-20&repo=Real-Time-Chat&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=0" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DEVRAJ-20&repo=Real-Time-Chat&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=0" />
 </a>
 <a href="https://github.com/DEVRAJ-20/AI-Virtual-Mouse">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DEVRAJ-20&repo=AI-Virtual-Mouse&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=0" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DEVRAJ-20&repo=AI-Virtual-Mouse&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=0" />
 </a>
 
 </div>
@@ -138,7 +138,7 @@ const devraj = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DEVRAJ-20&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img src="https://github-profile-trophy-rust.vercel.app/?username=DEVRAJ-20&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
