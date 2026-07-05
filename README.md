@@ -120,8 +120,8 @@ const devraj = {
 <a href="https://github.com/DEVRAJ-20/MatchMind">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DEVRAJ-20&repo=MatchMind&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=0" />
 </a>
-<a href="https://github.com/DEVRAJ-20/Web3-Smart-Tender-System">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DEVRAJ-20&repo=Web3-Smart-Tender-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=0" />
+<a href="https://github.com/Ootsav-app/Ootsav-Frontend">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ootsav-app&repo=Ootsav-Frontend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=0" />
 </a>
 <a href="https://github.com/DEVRAJ-20/Real-Time-Chat">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DEVRAJ-20&repo=Real-Time-Chat&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=0" />
