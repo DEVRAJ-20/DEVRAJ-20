@@ -19,7 +19,7 @@ const devraj = {
     education: "B.Tech CSE",
     role: "Full Stack Developer & AI/ML Engineer",
     currentFocus: ["MERN Stack", "AI/ML", "RAG Systems", "GenAI"],
-    experience: ["Jaltara (Jio)", "Bosch"],
+    experience: ["Jaltara (Jio)", "GET-IT"],
     funFact: "I turn coffee into code ☕→💻"
 };
 ```
@@ -76,6 +76,7 @@ const devraj = {
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
