@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+Devraj+K+Chandani;Full+Stack+Developer+%7C+MERN+%26+AI%2FML" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+Devraj+K+Chandani;Full+Stack+Developer+%7C+AI%2FML+Engineer" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -17,16 +17,18 @@
 const devraj = {
     name: "Devraj K Chandani",
     education: "B.Tech CSE",
-    role: "Full Stack Developer",
-    currentFocus: ["MERN Stack", "AI/ML"],
+    role: "Full Stack Developer & AI/ML Engineer",
+    currentFocus: ["MERN Stack", "AI/ML", "RAG Systems", "GenAI"],
+    experience: ["Jaltara (Jio)", "GET-IT"],
     funFact: "I turn coffee into code ☕→💻"
 };
 ```
 
-- 🔭 Currently working on **Full Stack Web Applications** using the MERN stack
+- 🔭 Currently building **AI-powered applications** with RAG, LLMs & vector databases
+- 🏢 Worked on **Jaltara** (Jio) — .NET backend with SQL Server & **GET-IT** — multimodal AI chatbot with RAG
 - 🌱 Learning **System Design, DSA & Cloud Technologies**
-- 💬 Ask me about **React, Node.js, Python, MongoDB**
-- ⚡ Fun fact: I built a **real-time chat app** with Socket.io and an **AI-powered virtual mouse** using hand gestures!
+- 💬 Ask me about **React, Node.js, Python, FastAPI, LLMs, Vector DBs**
+- ⚡ Fun fact: I built a **semantic movie recommendation engine** using FAISS & SentenceTransformers!
 
 ---
 
@@ -38,6 +40,7 @@ const devraj = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -55,10 +58,20 @@ const devraj = {
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+### AI/ML & Data
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Database & Blockchain
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -69,6 +82,7 @@ const devraj = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -93,33 +107,41 @@ const devraj = {
 
 | Project | Description |
 |---------|-------------|
+| 🧠 [**MatchMind**](https://github.com/DEVRAJ-20/MatchMind) | Semantic movie recommendation engine using FAISS, SentenceTransformers & FastAPI + React |
+| 🤖 [**GET-IT**](https://github.com/DEVRAJ-20/Get-IT) | Multimodal AI chatbot with RAG, Qdrant vector DB, Ollama LLM, Whisper & image analysis |
+| 🏛️ [**Web3 Smart Tender**](https://github.com/DEVRAJ-20/Web3-Smart-Tender-System) | Blockchain-based transparent tendering platform using Ethereum smart contracts |
 | 💬 [**Real-Time Chat**](https://github.com/DEVRAJ-20/Real-Time-Chat) | Full-stack real-time messaging app with MERN, Socket.io, JWT auth & online user status |
 | 🖱️ [**AI Virtual Mouse**](https://github.com/DEVRAJ-20/AI-Virtual-Mouse) | Control your mouse cursor using hand gestures — powered by Python, OpenCV & MediaPipe |
-| 📝 [**BlogApp**](https://github.com/DEVRAJ-20/BlogApp) | Modern blog application built with React + Vite for creating and sharing posts |
 | 🎉 [**Ootsav Frontend**](https://github.com/Ootsav-app/Ootsav-Frontend) | Event management platform frontend built with React + TypeScript |
-| 🏛️ [**Web3 Smart Tender**](https://github.com/DEVRAJ-20/Web3-Smart-Tender-System) | Blockchain-based transparent tendering platform using Ethereum smart contracts |
-| 🎨 [**Artistic QR**](https://github.com/DEVRAJ-20/artistic-qr) | Generate beautiful, artistic QR codes with custom styles using React |
 
 <div align="center">
 
+<a href="https://github.com/DEVRAJ-20/MatchMind">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DEVRAJ-20&repo=MatchMind&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=0" />
+</a>
+<a href="https://github.com/DEVRAJ-20/Web3-Smart-Tender-System">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DEVRAJ-20&repo=Web3-Smart-Tender-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=0" />
+</a>
 <a href="https://github.com/DEVRAJ-20/Real-Time-Chat">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DEVRAJ-20&repo=Real-Time-Chat&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=0" />
 </a>
 <a href="https://github.com/DEVRAJ-20/AI-Virtual-Mouse">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DEVRAJ-20&repo=AI-Virtual-Mouse&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=0" />
 </a>
-<a href="https://github.com/DEVRAJ-20/BlogApp">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DEVRAJ-20&repo=BlogApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=0" />
-</a>
-<a href="https://github.com/Ootsav-app/Ootsav-Frontend">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ootsav-app&repo=Ootsav-Frontend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=0" />
-</a>
 
 </div>
 
-
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DEVRAJ-20&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+</div>
+
+---
 
 ## 🤝 Connect With Me
 
